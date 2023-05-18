@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalInvestStrategy", "OptimalInvestStrategy\OptimalInvestStrategy.csproj", "{07248E9D-5C1C-4748-9D09-CB25AD79073D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalInvestmentStrategy", "OptimalInvestmentStrategy\OptimalInvestmentStrategy.csproj", "{07248E9D-5C1C-4748-9D09-CB25AD79073D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
